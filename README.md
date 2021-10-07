@@ -1,1 +1,1 @@
-# Lacaille-9352-Light-Curve-TESS
+# Lacaille 9352 Light Curve from TESS
