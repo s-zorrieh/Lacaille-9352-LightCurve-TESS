@@ -1,1 +1,2 @@
-# Lacaille 9352 Light Curve from TESS
+# simple processing of lacaille 9352 light curve
+TESS Space Telescope
